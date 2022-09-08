@@ -1,3 +1,3 @@
 # Window_Manager_Project
  
-A Java implementation of the popular game Flappy Bird, including a Graphical user interface made with Swing.
+A graphical user interface created using Java Swing that allows the user to bring squares to the front by clicking on them. Represents managing application windows in an operating system.
